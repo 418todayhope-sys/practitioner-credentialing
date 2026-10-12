@@ -1,6 +1,6 @@
 # Project E — Practitioner Credentialing Interview
 
-Participant: Max Gabel · Exported: 10/12/2026, 8:24:45 AM
+Participant: Max Gabel · Exported: 10/12/2026, 9:08:25 AM
 
 ## Renata Kowalczyk · Medical Services Professional, Medical Staff Office
 
@@ -985,3 +985,27 @@ And to follow up with your response, you also want flagging expiring licenses or
 **Renata Kowalczyk** · Voice · 08:24 AM
 
 Yes, exactly. Flagging items before they go stale ensures the file remains presentable and doesn't get delayed at the committee stage.
+
+**Max Gabel** · Voice · 09:03 AM
+
+Earlier, you identified seven standing documents used in the credentialing process. I have the office procedure, privilege criteria, authority roster, and blank application form. Could you provide the direct links to the remaining three documents, the accepted source table, blank peer reference form, and the export note?
+
+**Renata Kowalczyk** · Voice · 09:03 AM
+
+Here are the Accepted sources by element, the Professional peer reference form, and my export note detailing how we extract our records.
+
+- [Accepted sources by element — who may attest (LARK-ATT-2026.1)](https://docs.google.com/document/d/1ze0RTP4H8J68FSqbFmkG7Qd_5cZiB6Lh2BfyU6v2Sj8/edit)
+- [Professional peer reference — blank request and return form (LARK-REF-2026.1)](https://docs.google.com/document/d/1p7lZMbDkrr34rqkv59OpGoZv_XBncpAz2WXCAH7Qa80/edit)
+- [How this office exports its credentialing records (office note, 2026-03-16)](https://docs.google.com/document/d/1UtQMnsCW78nPClsgEJV1DgBKlaiIkzNS-fT93-kTLgA/edit)
+
+**Max Gabel** · Voice · 09:04 AM
+
+Can you verify the links to the three credentialing data batches dated March 16, April 20, and May 18, 2026, including the application records and supporting documents needed to process each batch?
+
+**Renata Kowalczyk** · Voice · 09:04 AM
+
+I have verified the links for the Batch 1 export, Batch 2 export, and Batch 3 export for 2026.
+
+- [Batch 1 export — 2026-03-16](https://drive.google.com/drive/folders/19gG5biOaRNagLvURCQXyGvBbiaj01G-1)
+- [Batch 2 export — 2026-04-20](https://drive.google.com/drive/folders/1HQo0jImFgbO7P7yoWqC9WviYG8-6iwiz)
+- [Batch 3 export — 2026-05-18](https://drive.google.com/drive/folders/1kYCh09iGyjP1ijknq0zLrIKbnm3TaRZd)
