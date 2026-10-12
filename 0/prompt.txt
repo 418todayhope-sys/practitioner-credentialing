@@ -1,0 +1,5 @@
+Read README.md and snapshot.schema.json in this repository. Explain the existing project structure and the snapshot schema requirements. Do not create, modify, delete, or commit any files yet. Identify the first small implementation step for building the reusable practitioner credentialing Agent Skill. Do not conduct or automate the stakeholder interview.
+
+---
+
+Create a minimal Python snapshot validator for Project E. Use the existing snapshot.schema.json as the authoritative schema. Add a Python script at scripts/validate_snapshot.py that accepts a snapshot JSON file path, validates it against the schema, prints a clear success or error message, and returns a nonzero exit code on failure. Add only the minimum dependency information needed. Do not create fictional credentialing records, implement business decisions, modify the existing schema, run the stakeholder interview, or commit anything. Explain the files you created and how to test the validator.
