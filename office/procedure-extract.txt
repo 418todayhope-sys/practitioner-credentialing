@@ -1,0 +1,233 @@
+﻿Initial appointment — Medical Staff Office procedure
+Larkhollow Community Hospital · Medical Staff Office · Larkhollow, Washington Procedure version LARK-MSO-2026.1, in force from 2026-01-01. Approved by the Executive Committee of the Medical Staff. Maintained by the Medical Services Professional.
+This procedure covers initial appointment only — a practitioner who has never held membership or privileges here. Reappointment, requests for additional privileges between appointments, credentialing by proxy, temporary privileges and emergency or disaster privileges run under separate procedures and are not described here.
+Where our rules come from, and how to tell them apart
+Larkhollow is a community hospital. It is not a federal facility. We adopted the verification standard work published by the Indian Health Service in its Medical Staff Credentialing and Privileging Standard Operating Procedure Manual, Version 8.0, September 2025, as our own written procedure, because it is a complete, current and publicly stated account of how the work is done.
+Two kinds of sentence appear below, and each says which it is.
+* Quoted from the manual, with the manual's own section number. We follow it.
+* Larkhollow rule. Ours. Either the manual leaves the criterion open, or the manual's rule is tied to a federal facility and does not reach us. Where the manual says something different, or says nothing, the manual's own sentence is printed beside ours so that the difference is visible rather than buried.
+Nothing below is a rule unless it is one of those two things. If you cannot find a rule here, ask the Medical Services Professional. Do not infer one from the manual, and do not invent one.
+The office also runs identity verification, controlled-substance registrations, the National Practitioner Data Bank query, sanctions and exclusion lookups, life support certificates, continuing education, immunization records, liability coverage and malpractice history. Those are handled outside this procedure and are not part of the work described here.
+1. Intake and completeness
+We do not send the application before the offer is accepted. The manual, Section 5:
+"Only after the applicant has accepted the tentative job offer can the full initial appointment application be sent to the applicant."
+An application is taken up for processing only when it is complete. The manual, Section 5, opens its list with
+"An application is complete and ready for import when:"
+and names ten conditions, of which two govern almost everything else we do:
+"a signed IHS Conditions of Application & Release is received (required to be able to conduct any verifications);"
+"a request for specific privileges is received;"
+Larkhollow rule. Our equivalent of that release is the Larkhollow Authorization and Release, printed inside the application. It is our own form; the manual's is a federal instrument and we do not use it. The rule it carries is the manual's and we keep it: until a signed release is on file we send no verification request of any kind. A file with no signed release cannot advance, no matter how much else is present.
+Larkhollow rule — our completeness list. An application is complete when all nine hold:
+1. the application is signed and dated by the applicant;
+2. the Larkhollow Authorization and Release is signed and dated;
+3. a request for specific privileges names at least one privilege group published in the current privilege criteria;
+4. a current curriculum vitae is on file;
+5. every professional practice question on the disclosure page is answered Yes or No, and every Yes carries the written explanation the form asks for;
+6. the declared history runs continuously from the date the applicant finished professional school, with a written explanation for every period of 30 days or more that no entry covers;
+7. at least two peer referees are named, with a working address for each;
+8. every declared affiliation and employer carries a verification contact;
+9. every licence and certification the applicant holds, active or inactive, is declared.
+An item that is missing is requested from the applicant in writing, and the clock in the manual, Section 5, starts on the day we write:
+"the LP has 30 calendar days to respond. After 30 calendar days, their application is considered incomplete and ineligible for processing."
+Larkhollow rule. The 30 days run from the date on our written request, counted as calendar days, and the deadline day is included. A reply that arrives on day 30 is in time. A reply that adds or changes anything on the application arrives as a new revision of the application; we record it and keep the old one. A revision never overwrites what it replaces.
+An unexplained gap does not go on a findings list. The manual, Section 6, Subsection 4, element 4:
+"If the application is found to have any unexplained time period or gaps, the application will not be processed and will be returned to the applicant as incomplete."
+2. Reconciliation
+Before and during verification we read the curriculum vitae against the application, and then both against whatever the sources return. The manual, Section 6, Subsection 2:
+"The MSP will compare the CV/resume with the application and completed verifications and correct or resolve any discrepancies."
+"There must be a follow-up of any verification discrepancies found during the application and"
+"The burden of proof is on the applicant to provide all necessary verifiable information to"
+And Section 6, Subsection 4, element 3:
+"If discrepancies exist, the applicant must provide a written explanation or be offered the opportunity to amend the submitted application."
+Larkhollow rule — the office never picks a value. When the applicant says one thing and a source says another, we raise it and we record both. We do not decide which is right, we do not average them, and we do not quietly adopt the source's date because the source is the source. The applicant resolves it in writing or amends the application.
+Larkhollow rule — a discrepancy holds its own entry and nothing else. A contested employment entry holds that entry. Every other entry on the file carries on being verified. But the file cannot be presented to the committee until the discrepancy is resolved, because presentation requires every element to be resolved (section 8 below).
+Larkhollow rule — outstanding work does not stop the rest of the file. While one element of a file is outstanding, work on the other elements continues and their status is recorded; the office may hold the whole file instead only for a reason recorded in the file's action list; a file is never presented to the committee with an element outstanding.
+Larkhollow rule — a revision is reconciled, not assumed. When a revision arrives, the reconciliation above runs again on what the revision says, against the curriculum vitae and against every verification already completed on the entries it touches. Dates are not the only thing a revision can move: the organization, the role, the supervisor and the verification contact all belong to the entry, and a change to any of them is a change to the entry. Section 11 says what re-opens when it does. The monitoring duty in section 11 runs alongside it and does not pause while a file waits.
+3. The six checks
+Six elements are verified in this procedure: licensure, experience, time gaps, professional education and post-graduate training, board certification, and professional peer references. The manual numbers seventeen essential credentialing elements in Section 6, Subsection 4. Of the other eleven, nine are handled by the office outside this procedure, as stated above; current competency is the clinical leadership's, not the office's; and the manual's conditions-and-release form is replaced by our own Authorization and Release, which is part of intake in this procedure.
+What counts as a verification at all
+The manual, Section 1, defines primary source verification as
+"Verifying a credential from the original source"
+and Section 6, Subsection 1 rules out two things we see constantly:
+"Primary source verifications received directly from the applicant cannot be used."
+"Copies of a diploma, license, registration, etc., in place of verifications are unacceptable."
+A reply that reached us through the applicant is not a verification, however genuine the document looks, however clear the letterhead, however real the registrar's signature. It goes in the file as received and the request stays open.
+A designated equivalent source is acceptable in place of the original. The manual leaves each of its lists open — Section 6, Subsection 4, element 2 ends
+"etc., as long as the source is a designated equivalent source for education and training verifications"
+and element 5 ends
+"or other nationally recognized certifying body, as long as the source is a designated equivalent source for board certification verifications"
+Larkhollow rule. An open list cannot be applied consistently, so ours is closed. The sources this office accepts for each element are named in attester-table.md. Anything not on that table is inadmissible and is raised to the Medical Services Professional. It is never quietly accepted as good enough, and it is never quietly downgraded to a secondary source.
+There is one legitimate route to a weaker source, and it opens only on impossibility. The manual, Section 6, Subsection 1:
+"If completing primary or DES verifications is impossible, such as when an educational institution or residency program has closed, secondary source verifications may be used."
+"When a primary or designated equivalent source cannot be obtained, the applicant's recent affiliations should be contacted to discover how they obtained the verification."
+Larkhollow rule. Impossibility is a closed school, a closed programme, a dissolved employer — a source that no longer exists to answer. A source that exists and does not answer is not impossible; it is non-responsive, and non-response is handled in section 4, not here. When the secondary path opens, the reason is written into the file.
+How often we ask, and what silence means
+The manual, Section 6, Subsection 2:
+"Verifications are attempted at least three times."
+"Each attempt, including whom it was attempted to verify with, the date of request, verification methods, and any additional comments, is documented in the Notes section of the entry."
+"Note that non-responsive individuals or entities may be a red flag."
+And Section 15, on affiliations:
+"If the affiliation is unwilling to complete the verification or is non-responsive after 3 attempts, this should be noted as a red flag."
+Larkhollow rule. The attempt log is permanent. A reply arriving on the fourth attempt does not erase the three that went unanswered — the record of how hard the file was to verify is part of the file. Silence is never a pass. An unanswered request is an outstanding item for as long as it stays unanswered.
+Check 1 — Licensure
+The manual, Section 6, Subsection 4, element 6:
+"At the initial appointment, all active and inactive professional medical licenses will be verified."
+"Licenses will be verified before expiration."
+and, on what a licence has to be:
+"Every licensed practitioner who provides patient care in federal facilities must possess a current, active, full, and unrestricted license or registration from a State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States."
+Larkhollow rule — the practice state. The manual's sentence above is a federal facility's rule: it accepts a licence from any State, the District of Columbia, Puerto Rico or a territory, and Section 15 says so again, answering the question "Where is it documented that a practitioner does not need to be licensed in the state where they provide services in a federal facility?" with
+"Federal law at 25 U.S.C. § 1621t states that licensed health professionals employed by a tribal health program are exempt if licensed in any state, from the licensure requirements of the state where services under an ISDEAA agreement are performed."
+We are not a federal facility and that exemption does not reach us. Larkhollow's bylaws require a practitioner to hold one current, active, full and unrestricted licence issued by the State of Washington, which is our practice state. Every other licence the applicant holds, active or inactive, in any state, is still verified under the manual's sentence above — we verify them all; only one of them satisfies the bylaw.
+Larkhollow rule — full and unrestricted. A licence is not full and unrestricted when the board's record or the board's reply shows probation, supervision, a monitoring agreement, a practice limitation, a suspension, a stipulated condition or a surrender. A licence in any of those states is a finding and goes to the Clinical Director with its evidence. It is not the office's judgment whether the restriction matters.
+The element's state is finding from the day the restriction is seen and stays finding on every later record of that revision, including after the Clinical Director's disposition ends the hold on the file. The disposition ends the wait; it does not turn a finding into a clean element. resolved is for an element with nothing to weigh.
+Larkhollow rule — a National Provider Identifier is not a licence. It identifies a practitioner for billing. It says nothing about whether anybody is licensed. An applicant who declares an identifier in place of a licence has declared no licence.
+Larkhollow rule — the cycle. An initial appointment at Larkhollow runs one year, matching the manual's Section 12:
+"For IHS, initial appointments are one year long, and reappointments are two years long, regardless of accrediting body medical staff standards or medical staff bylaws."
+The cycle starts on the date the appointment takes effect and ends one year later minus one day, so a cycle starting 2026-05-01 ends 2027-04-30. The Washington licence must be valid on the decision date. If it expires inside the cycle, that is not a denial and it is not a pass: it is recorded as a monitored condition with a re-verification due date set before the expiry date, and it does not block activation. If the re-verification fails, the file re-opens. The due date recorded on the condition is the licence's expiry date itself; "before" says when the re-verification must be complete, not what the recorded date is.
+Check 2 — Experience and time gaps
+The manual, Section 6, Subsection 4, element 3:
+"At the initial appointment, relevant experience (affiliations, work history, and military) for at least the most recent five years for work history and the most recent five years for affiliation history"
+"or as far back as necessary per any conflicting information or suspicious indicators—to assess current competency is verified."
+Five years is a floor, not a ceiling. Conflicting information takes us further back.
+Larkhollow rule — where the five years are measured from. The manual states the window and not its anchor. Ours is the date the application was first received: an entry is inside the window when any part of it falls in the five years counted back from the date the application was first received. A later revision does not move the anchor.
+Element 4 defines a gap and says what is owed:
+"A time gap is 30 or more days when the LP is not in school or training, in the military, teaching, working,"
+"Verification of time gaps is not required, but an explanation is."
+Larkhollow rule — how the gap list is computed. The clock starts on the day after the applicant finished professional school. Every declared entry of any type covers every day from its start date to its end date inclusive; an entry with no end date runs to the export date. Overlapping entries, part-time appointments and training years are covering entries: an overlap covers, it does not create a gap. A gap is a run of 30 or more consecutive days that no entry covers. The list is recomputed from scratch whenever a revision or a verification changes a date; it is not patched.
+Larkhollow rule — what the office does with a gap. We record the gap and we record the applicant's written explanation beside it. An explanation names the period it covers, and it covers a gap only when that named period runs from at or before the gap's first day to at or after the gap's last day. A gap with a written explanation covering it is marked explained. A gap with no written explanation is unexplained, and the application is returned as incomplete under the manual's sentence quoted in section 1. The office marks a gap explained on the presence of a written explanation and on nothing else. We do not read the explanation and decide whether it is good enough. The manual, Section 6, Subsection 4, element 8:
+"current competency is determined by clinical leadership, not the MSP."
+Larkhollow rule — the long gap. Any gap of 180 days or more is routed to the Clinical Director for a recorded disposition, whether or not it carries an explanation. The Clinical Director decides; the office supplies the gap, the explanation and the verified dates.
+Check 3 — Professional education and post-graduate training
+The manual, Section 6, Subsection 4, element 2:
+"A qualifying degree is the degree required for the applicant's position and privileges."
+"such as internship, residency, fellowship, or other organized professional training will be verified."
+So: the qualifying degree, and every post-graduate training entry. The accepted sources are in attester-table.md. The admissibility rules are the ones in "What counts as a verification at all" above — the applicant may not carry the reply, and a source not on the table is raised.
+The manual also states the boundary this check does not cross, Section 6, Subsection 4, element 2:
+"obtaining a degree and postgraduate training does not automatically confer a license to practice"
+Check 4 — Professional peer references
+The manual, Section 6, Subsection 4, element 11:
+"IHS policy requires the collection of at least two peer references at the initial appointment. The"
+"All peer references are from a professional authority who has worked directly with the applicant within the past two years and can authoritatively speak to the applicant's character, clinical experience, and competency."
+"the IHS definition of a peer includes a practitioner in the same clinical discipline."
+"A peer must not be a relative, spouse, or partner."
+Three disqualifiers, each independent: not worked together directly inside two years; not in the same clinical discipline; a relative, spouse or partner. A referee who fails any one of them does not count, and we find out only when the reply arrives and states the relationship.
+Larkhollow rule — how each of the three is measured. The manual gives the conditions and not the arithmetic, so ours is:
+* Worked together within two years is measured against the date the referee signs, because that is the day the referee attests to it. A referee whose last date working directly with the applicant is earlier than two years before their own signature date does not qualify. A blank last date means they still work together and the condition holds.
+* Same clinical discipline is the discipline the referee states on the returned form against the discipline the applicant declared on the application. Both come from a fixed list.
+* Relative, spouse or partner is the box the referee ticks on the returned form, read with whatever they wrote beside it.
+Currency, from Section 8:
+"Peer references are considered current if the reference's signature is within two years of the file presentation to the GB."
+The signature date, not the date we received it. A reference can go stale while the file waits.
+Larkhollow rule — when currency is measured. A reference is current when the presentation date is on or before the second anniversary of the signature date. For a file the Governing Body has decided, the presentation date is the decision date. For a file not yet decided, we measure currency against today, so that a reference about to go stale is visible before the committee meets rather than afterwards.
+Larkhollow rule — the reference window. The manual states how many times to ask and does not state how long to wait. Ours: 21 calendar days per request, up to three requests. Request one goes out, request two 21 days later, request three 21 days after that. From day 64 after the first request the reference is overdue: we tell the applicant and ask for an additional referee. The original request stays open and stays outstanding; it is never closed as satisfied and never counted.
+Larkhollow rule — the floor is two. Two qualifying, current references, both eligible on all three disqualifiers, both signed inside two years of the presentation date. An ineligible referee does not count towards the two even though the reply is in the file.
+Larkhollow rule — an open request does not hold a met element. Once two qualifying, current references are on file, the peer-reference element is resolved. A request that is still open is carried on the action list until the file is presented and is then closed as no longer needed; it is never counted, and it does not hold the element or the file.
+Check 5 — Board certification and the privileges requested
+The manual, Section 6, Subsection 4, element 5:
+"At the initial appointment, all active and inactive board certifications are verified."
+"Verified through the certifying board."
+All of them — a lapsed certificate is verified too, because what the applicant is certified in and what the applicant was once certified in are different facts and the file needs both.
+On whether a certification supports a privilege, the manual gives the duty to clinical leadership:
+"MSPs will check the facility's privilege criteria and conditions of employment (for IHS employees, review the position description, and for contractors, review the contract) to determine if the LP meets the board-certified/board-eligible requirements."
+"The facility's clinical leadership is responsible for ensuring that the LP's board-certified or board eligibility aligns with the requested privileges."
+and Section 9 says what criteria must address:
+"At a minimum, privilege criteria should address the required education level, formal training requirements, and current experience."
+Larkhollow rule — the criteria are published and versioned. privilege-criteria.md maps each privilege group to the certifying boards that support it and to a minimum training requirement, under a version string. Every decision record cites the criteria version it was decided under. The office applies the map; the office does not write it and does not extend it.
+Larkhollow rule — name the unsupported subset. When some requested privileges are supported and some are not, the finding names the ones that are not. It does not reject the whole request.
+Larkhollow rule — no supporting certification at all. When nothing the applicant holds supports any requested privilege group, this is an eligibility question, not a finding. The manual, Section 9:
+"Threshold eligibility criteria are in place and consistently applied to each new applicant for medical staff membership and privileges."
+"Do not accept applications for membership or clinical privileges from applicants who do not meet privileging"
+"the clinical director will be consulted regarding discontinuing the application because the applicant doesn't meet the privileging"
+The office raises it. The Clinical Director decides whether the application is discontinued.
+Check 6 — The committee decision
+Covered in sections 8 and 9.
+4. High-risk findings
+The manual, Section 7:
+"A high-risk credentialing finding is identified as an applicant answering yes to any professional practice questions in "Table 1. Credentialing High-Risk Table" on an application."
+"In addition, if any documents or verifications supporting the application illustrate that the applicant should have answered yes to a professional practice question but did not, the applicant is contacted to confirm the response."
+Both halves apply here. A Yes on the disclosure page is a high-risk finding. So is a No that the evidence contradicts — a board record showing an action against a licence beside a No to the question about licence restrictions is the second half, and the applicant is contacted to confirm the response.
+Larkhollow rule — where a high-risk finding goes. The Clinical Director is alerted, and the file is presented to the Executive Committee of the Medical Staff and to the Governing Body with the evidence. The manual's Section 7 also routes such a file to an Agency Clinical Credentials Committee for an endorsement determination; that body is a federal agency committee and there is no equivalent at Larkhollow. That route is out of scope for us. No third body exists here.
+5. Privilege requests
+Every application names the privilege groups it requests, from the current published criteria. The manual, Section 5, makes it a completeness condition:
+"a request for specific privileges is received;"
+An applicant may amend the requested set by submitting a revision.
+6. Reserved judgments
+Five judgments are not the office's and never become the office's, no matter how obvious the answer looks from the file.
+Judgment
+	Whose
+	Whether a gap explanation is satisfactory
+	Clinical Director
+	Whether a finding is disqualifying
+	Clinical Director, then the Executive Committee of the Medical Staff and the Governing Body
+	Whether to discontinue an application on eligibility grounds
+	Clinical Director
+	Whether to recommend appointment, and which privileges
+	Executive Committee of the Medical Staff
+	Whether to grant, modify, defer or deny
+	Governing Body
+	The office's job on each is to present the evidence the decider needs and to record the disposition that comes back. Presenting well is the work; deciding is not.
+7. The Medical Services Professional's own role
+The manual, Section 4, states it:
+"verify, analyze, and prepare all relevant information regarding an LP's competency, character, training, experience, and judgment to present a complete and accurate file to the MEC and GB for recommendations and approvals"
+8. Packet readiness
+The manual, Section 12:
+"It is recommended that every file be audited before it goes through review."
+and Section 8, on how long a verification stays good:
+"Most of these verifications are required by accrediting organizations to be verified AT the time of appointment, the time between when the application is received and when it's reviewed."
+The manual gave a fixed number once and removed it: its own change log for Version 5.0 records "Section 8: Removed 120-day expiration of primary source verifications."
+Larkhollow rule — the usability window. A verification is usable when it was completed on or after the date this application was first received and before the decision date. There is no day count. The anchor is the date revision 1 arrived, not the date of the current revision, so a later revision does not by itself void every verification already completed — what a revision invalidates is decided entry by entry, by reading what the revision actually changed. Peer references carry the additional two-year signature rule in check 4, which is stricter and wins where the two disagree.
+Larkhollow rule — the board lookup and the window. A board lookup is the office's own check of the state board's public record on a day of the office's choosing, not a reply from a source, so the usability window is not applied to it: a lookup run on the decision day is usable for that decision. The date a packet became presentable is the date the last verification reply it needed was received; the lookup does not set it.
+Larkhollow rule — what makes a packet presentable. Every one of the six elements resolved, no element outstanding, no discrepancy open, every verification inside the usability window, and the packet bound to one named application revision. Readiness is computed from the element statuses, not from anybody's recollection that the file looked finished.
+For readiness, resolved means the element has nothing left to verify. An element carrying a finding is resolved in that sense once its evidence is with the Clinical Director — a licensure finding once the Clinical Director's disposition is on file, a certification finding on part of the request at once — and the packet is presented with the finding on it. An eligibility question, a gap awaiting the Clinical Director's disposition, an open discrepancy, an item returned to the applicant and a high-risk finding without its disposition are not resolved: while any of them stands, the packet is not presentable.
+A packet is a statement about one revision at one moment. If any element re-opens, readiness for that revision is gone, and the earlier readiness record stays in the file as history.
+Readiness is a fact about the revision's elements and nothing else. A refused decision record does not undo it, and a withdrawn or discontinued file keeps the readiness its revision had: the office records what was ready, whatever the file did next. Only an element re-opening or a new revision changes it.
+9. The committee protocol
+The medical staff recommends; the Governing Body approves. The manual, Section 1:
+"The Governing Body has the authority to grant, modify, or deny medical staff membership and clinical privileges to LPs"
+and the Executive Committee of the Medical Staff
+"proposes a recommendation through the clinical director (CD) and the chief executive officer (CEO) or their designee to the Governing Body"
+Section 7:
+"The GB or a delegated GB committee retains the final authority to grant, renew, or deny privileges after considering the recommendations of the medical staff"
+Section 12, on who may record what:
+"All signatories should utilize a "recommend" selection, with only the Chair of the GB or their designee using the "approval" selection."
+A recommendation is not an approval. A record from the Credentials Committee or the Executive Committee of the Medical Staff that carries the word "approved" is still a recommendation, because those bodies cannot approve. Only the Governing Body chair, or the designee named in authority-roster.md, records an approval.
+Larkhollow rule — what makes a decision admissible. All five, checked against the roster and the packet and never against the record's own claim:
+1. the body is one that may record that outcome;
+2. the signatory held the named role on the decision date, per authority-roster.md;
+3. the decision names the same applicant and the same application revision as the presentable packet;
+4. a presentable packet existed for that revision before the decision date;
+5. the outcome is one of approved, approved-with-conditions, deferred-pending-information, denied, recommended, not recommended, and every outcome other than a plain approval carries a reason.
+A decision that fails any of these is not a decision. It is recorded as received, raised to the Medical Services Professional, and nothing activates on it.
+Larkhollow rule — a decision against a superseded revision. It does not authorize the current revision. It stays in the file as history against the revision it named, and it is never deleted.
+Larkhollow rule — two decisions for one revision. A second decision for the same application revision is admissible only when it names the earlier decision it supersedes. Without that reference it is a duplicate, it is inadmissible, and it is raised to the Medical Services Professional. The first decision continues to stand.
+Larkhollow rule — which outcomes carry a reason, and what counts as a second decision. recommended is the positive outcome of a body that cannot approve (the Credentials Committee or the Executive Committee of the Medical Staff); like a plain approval it carries no reason, while not recommended carries one, as do approval-with-conditions, deferral and denial. The two-decisions rule above applies to a second decision of the same body for the same revision: a recommendation followed by the Governing Body's decision on the same revision is the normal sequence, not a duplicate, and a second recommendation is never a duplicate — so in practice it is a second Governing Body decision for the same revision that must name the earlier one it supersedes.
+Larkhollow rule — deferral. A deferral names the information it waits for. The office chases exactly that, and the file does not advance while it waits.
+10. Activation and the appointment cycle
+The manual, Section 5:
+"The provider cannot provide patient care services until the practitioner has been approved for their next appointment and privilege cycle."
+and Section 15:
+"The GB needs to approve a provider's privileges and/or appointment on or before the"
+expiry date, to prevent a lapse; and a later start date is permitted when the body records it:
+"Yes, if the GB makes the notation in their final notes when they sign off on the signature pages in Virtual Committee."
+Larkhollow rule — activation. On an admitted Governing Body approval, the office records the appointment and activates exactly the privilege groups named in the decision — never more, and never a group that was requested but not granted. Privileges become active on the effective date the decision records, or on the decision date when the decision records no separate effective date. Nothing is active before that day. The cycle end is computed as in check 1.
+Larkhollow rule — approve with conditions. An approval with conditions activates the approved privilege groups on the normal rule above, and records each condition as a monitored condition with its own due date. A condition is satisfied only by a record naming it. A condition still unmet on its due date becomes a finding to the Clinical Director.
+Monitored conditions do not block activation. A licence expiring inside the cycle, and a condition attached to an approval, are both tracked to their due dates while the privileges run.
+11. Re-entry: when something lands on work already done
+The manual, Section 15:
+"The MSP must verify all expirables upon expiration and place the documentation in the file."
+"must continue monitoring expirables even during the review process and always provide the most current information"
+A file waiting for a committee is not frozen. Credentials go on expiring underneath it and we go on watching them.
+Larkhollow rule — the five re-entry triggers, and what each affects:
+What arrives
+	What it affects
+	A new application revision
+	intake and completeness run again on the new revision; the prior revision stays in the file; any packet readiness bound to the prior revision is gone
+	New evidence on an element — a reply, a reclassification, a corrected date
+	that element re-opens; packet readiness is gone; other elements are untouched
+	A credential expires or is renewed
+	the licensure check re-runs on the new dates; a re-verification is placed in the file
+	A decision that is not admissible, or that names a superseded revision
+	nothing activates; the record is raised, kept, and never deleted
+	A withdrawal by the applicant, or a discontinuation by the Clinical Director
+	the file ends with the terminal reason recorded. It is never labelled appointed
+	A re-entry adds an occurrence to the file. It does not overwrite the occurrence before it.

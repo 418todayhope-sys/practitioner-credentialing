@@ -1,26 +1,76 @@
-# Practitioner credentialing
+# Project E practitioner credentialing
 
-Build a reusable Agent Skill that runs a medical staff office's initial-appointment credentialing file from application intake to recorded appointment and active privileges.
+This repository contains a reusable Agent Skill and Python workflow for processing closed medical staff office exports for **initial practitioner appointments**. It preserves source evidence and application revisions, evaluates six verification elements, assesses packet readiness and recorded decisions, and produces schema-valid, hash-chained snapshots. It does not make clinical judgments or create human decisions.
 
-## Start
+## Repository map
 
-1. Read the [full task](https://docs.google.com/document/d/1HhmU8Jay09XHDci38hl9ZOX_dMryaSv4aFLCPu1Nk-E/edit): it owns the scope, deliverables and acceptance requirements.
-2. Create your own repository from [this starter](https://github.com/GitRollTraining/practitioner-credentialing) using **Use this template → Create a new repository**, then clone your copy and work there.
-
-## Supplied files
-
-| File | Purpose |
+| Path | Contents |
 |---|---|
-| `README.md` | Starting instructions and the full-task link. |
-| `snapshot.schema.json` | The required shape of the per-batch snapshot your Skill writes. Validate every snapshot against it. Your implementation language and validation library are yours. |
+| `SKILL.md` | Operator instructions for running the reusable skill. |
+| `credentialing/` | Evidence ingestion, six-element evaluation, readiness, decision admission, and activation code. |
+| `scripts/generate_snapshots.py` | Sequential three-batch snapshot generator. |
+| `scripts/validate_snapshot.py` | Validator for one snapshot against `snapshot.schema.json`. |
+| `snapshot.schema.json` | Required snapshot contract; treat as authoritative and unchanged. |
+| `requirements.txt` | Python dependency declaration (`jsonschema`). |
+| `office/` | Seven official hospital reference documents in `.txt` format. |
+| `inputs/` | Three chronological batch exports, each with a README, CSVs, and indexed documents. |
+| `interviews/` | Completed stakeholder interview transcript: [`project-e-practitioner-credentialing-20261012-1308.md`](interviews/project-e-practitioner-credentialing-20261012-1308.md). |
+| `deliverables/rules.md` | Policy register with exact official document and section citations; separates written policy from implementation choices. |
+| `deliverables/snapshots/` | Three official snapshots and three cumulative evidence-ledger checkpoints. |
+| `deliverables/verification.md` | Independent checks of official outputs, their source exports, schema, hashes, and rerun behavior. |
+| `deliverables/run-log.md` | Record of the actual three-batch execution and its results. |
+| `tests/` | Automated ingestion, evaluation, readiness, and snapshot-generator tests. |
 
-You create the Skill, its implementation, your own checks and every output the task requires. Nothing here implements any part of the office's work.
+The interview provides operational context. The written hospital documents govern credentialing rules; see `deliverables/rules.md` for how conflicts and limitations are handled.
 
-## Before you work
+## Prerequisites and setup
 
-**Interview rule.** You conduct the stakeholder interview yourself, and the questions are yours. Do not connect a coding agent or any other AI to the interview to run, script, or automate it. The interview transcript is assessed together with the code; a project whose interview was run by an agent is not scored.
+Use Python 3.10 or newer. From the repository root, create and activate a virtual environment and install the declared dependency:
 
-- Export your interview as the original Work Sim Markdown, save one final complete file per session under `interviews/`, and commit and push it with your code. Do not rewrite the export. If the export is unavailable, contact the facilitator.
-- No runtime is supplied. Choose the dependencies your Skill needs and document how to install and run it.
-- Complete the program's coding-session capture setup in the course before assessed work, and confirm your session is being captured after your first meaningful commit. Ask the facilitator to repair missing capture before you continue.
-- Meet the stakeholder to obtain the relevant business source links and context; the facilitator supplies the interview link with the assignment. Read those online sources through the intended access route.
+```sh
+python3 -m venv .venv
+. .venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+The dependency is `jsonschema>=4.18,<5`.
+
+## Run and validate
+
+The generator discovers the three `Batch N` directories in `inputs/`, sorts them chronologically by batch number, reads each batch README and source files, and processes each at its stated export date. From the repository root, run:
+
+```sh
+python3 scripts/generate_snapshots.py
+```
+
+For a fresh output directory, it creates these six files under `deliverables/snapshots/`:
+
+- `batch-01.json`, `batch-02.json`, `batch-03.json`
+- `evidence-ledger-batch-01.json`, `evidence-ledger-batch-02.json`, `evidence-ledger-batch-03.json`
+
+For the already generated official files in this repository, an unchanged rerun prints `No changes: all snapshots and ledger checkpoints already match the exports.` It will not silently overwrite a differing snapshot; see the correction procedure in [SKILL.md](SKILL.md).
+
+Validate each official snapshot against `snapshot.schema.json`:
+
+```sh
+python3 scripts/validate_snapshot.py deliverables/snapshots/batch-01.json
+python3 scripts/validate_snapshot.py deliverables/snapshots/batch-02.json
+python3 scripts/validate_snapshot.py deliverables/snapshots/batch-03.json
+```
+
+Success prints `Valid snapshot: <path>` for each file. A validation failure prints an error and returns a nonzero exit status. Run the automated test suite with:
+
+```sh
+python3 -m unittest discover -s tests -v
+```
+
+The generator also supports `--batches-dir`, `--output-dir`, `--correction-id`, and `--correction-note`; confirm their exact behavior with `python3 scripts/generate_snapshots.py --help`. Both correction flags are required together. A corrected chain is retained separately under `deliverables/snapshots/corrections/<correction-id>/`.
+
+## Project and assignment references
+
+- [Full Project E assignment instructions](https://docs.google.com/document/d/1HhmU8Jay09XHDci38hl9ZOX_dMryaSv4aFLCPu1Nk-E/edit)
+- [Starter repository](https://github.com/GitRollTraining/practitioner-credentialing)
+
+## Review the work
+
+Start with [SKILL.md](SKILL.md) for the operator workflow. Use [deliverables/rules.md](deliverables/rules.md) for policy citations, [the stakeholder interview](interviews/project-e-practitioner-credentialing-20261012-1308.md) for operational context, and [deliverables/verification.md](deliverables/verification.md) for independent output checks. The [execution record](deliverables/run-log.md) summarizes the commands and results for the official three-batch run.
